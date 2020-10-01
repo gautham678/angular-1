@@ -1,4 +1,4 @@
-# third_party vendored sources in Angular
+# thirdParty vendored sources in Angular
 
 ## TL;DR: don't copy sources into this repo
 
