@@ -1,4 +1,5 @@
-# third_party vendored sources in Angular
+# thirdParty vendored sources in Angular
+#It's good to use camelCase for naming conventions(ex: variables and functon names)
 
 ## TL;DR: don't copy sources into this repo
 
